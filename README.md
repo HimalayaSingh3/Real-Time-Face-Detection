@@ -23,10 +23,6 @@ This project implements face detection in web applications using JavaScript. Lev
 
 ### Prerequisites
 
-Make sure you have the following installed:
-
-- A modern web browser (Chrome, Firefox, etc.)
-- Node.js (for local development)
 
 ### Installation
 
@@ -34,12 +30,6 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/HimalayaSingh3/Face-Detection-js.git
    cd face-detection-js
-   ```
-
-2. **Install Dependencies**:
-   If using a package manager, run:
-   ```bash
-   npm install
    ```
 
 3. **Open `index.html`**:
